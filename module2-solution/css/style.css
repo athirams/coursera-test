@@ -25,6 +25,8 @@ p {
 .content {
 	background-color: grey;
 	border: 1px solid black;
+	height: 150px;
+	 overflow: auto;
 }
 
 .content-header { 
@@ -34,7 +36,7 @@ p {
 	position: relative;
 	top: 0px;
 	clear: both;
-	
+	background-color: grey;
 
 	
 	width: 150px;
